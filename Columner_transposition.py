@@ -101,8 +101,7 @@ def decryption(ct,key,keyValuelist):
   return pt
 
   
-
-pt = 'COLUMNARTRANSPOSITION'
+pt = 'CLOUMNARTRANSPOSITION'
 key = 'HEAVEN'
 
 print('The plain text is:',pt)
